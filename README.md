@@ -1,8 +1,6 @@
 # Open CTG intrapartum database (CTU-UHB 2017)
 
-# WIP
-
-Codes related to CTU-UHB database released in 2019
+Codes related to CTU-UHB database released in 06/2019
 
 # Dependencies
 
